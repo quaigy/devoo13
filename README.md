@@ -2,6 +2,5 @@
 
 Nobody move, nobody gets hurt.
 
-# On s'amuse bien
+# Coucou Cédric
 
-Avec des commits dans tout les sens.
